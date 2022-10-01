@@ -1,7 +1,7 @@
 {
-"STATUS":false,
+"STATUS":true,
    "MSG":"",
-   "onback_adshow":"1",
+   "onback_adshow":"",
    "APP_SETTINGS":{
       "app_privacyPolicyLink":"",
       "app_adShowStatus":""
@@ -41,7 +41,7 @@
           "AppID":"4923729"
       },
       "QurekaLite":{
-         "ad_showAdStatus":"",
+         "ad_showAdStatus":"1",
           "AppID":"https://336.set.qureka.com/"
       }
    }
