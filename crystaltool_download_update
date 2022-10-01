@@ -4,7 +4,7 @@
    "onback_adshow":"",
    "APP_SETTINGS":{
       "app_privacyPolicyLink":"",
-      "app_adShowStatus":""
+      "app_adShowStatus":"1"
    },
    "PLACEMENT":{
       "Admob":{
