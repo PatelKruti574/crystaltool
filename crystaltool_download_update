@@ -1,7 +1,7 @@
 {
 "STATUS":true,
    "MSG":"",
-   "onback_adshow":"",
+   "onback_adshow":"1",
    "APP_SETTINGS":{
       "app_privacyPolicyLink":"",
       "app_adShowStatus":"1"
@@ -17,24 +17,24 @@
           "AppOpen1":" "
       },
       "Facebookaudiencenetwork":{
-         "ad_showAdStatus":"",
-         "Banner1":"IMG_16_9_APP_INSTALL#3011693982286504_3122146901241211",
-         "Interstitial1":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial2":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial3":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial4":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial5":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial6":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial7":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial8":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-          "Interstitial_exit":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial_exit1":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial_exit2":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",  
-         "Interstitial_exit3":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial_exit4":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial_exit5":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Native1":"IMG_16_9_APP_INSTALL#3011693982286504_3011695365619699",
-         "NativeBanner1":"IMG_16_9_APP_INSTALL#230807221472038_474481330437958"
+         "ad_showAdStatus":"1",
+         "Banner1":"398173942477541_398409542453981",
+         "Interstitial1":"398173942477541_400529602241975",
+         "Interstitial2":"398173942477541_400530165575252",
+         "Interstitial3":"398173942477541_400530298908572",
+         "Interstitial4":"398173942477541_400530462241889",
+         "Interstitial5":"398173942477541_400530665575202",
+         "Interstitial6":"398173942477541_400530842241851",
+         "Interstitial7":"398173942477541_400530962241839",
+         "Interstitial8":"398173942477541_400531095575159",
+          "Interstitial_exit":"398173942477541_400531298908472",
+         "Interstitial_exit1":"398173942477541_400531438908458",
+         "Interstitial_exit2":"398173942477541_400531842241751",  
+         "Interstitial_exit3":"398173942477541_400532002241735",
+         "Interstitial_exit4":"398173942477541_400532182241717",
+         "Interstitial_exit5":"398173942477541_400532298908372",
+         "Native1":"398173942477541_400532438908358",
+         "NativeBanner1":"398173942477541_400532585575010"
       },
       "Unity":{
          "ad_showAdStatus":"",
