@@ -1,7 +1,7 @@
 {
 "STATUS":true,
    "MSG":"",
-   "onback_adshow":"1",
+   "onback_adshow":"",
    "APP_SETTINGS":{
       "app_privacyPolicyLink":"",
       "app_adShowStatus":"1"
@@ -17,7 +17,7 @@
           "AppOpen1":" "
       },
       "Facebookaudiencenetwork":{
-         "ad_showAdStatus":"1",
+         "ad_showAdStatus":"",
          "Banner1":"398173942477541_398409542453981",
          "Interstitial1":"398173942477541_400529602241975",
          "Interstitial2":"398173942477541_400530165575252",
